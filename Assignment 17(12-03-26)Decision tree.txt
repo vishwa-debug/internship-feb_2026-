@@ -1,0 +1,65 @@
+Here is the **assignment content in proper format** that you can directly write in your notebook or upload to the VTU internship portal. 📄
+
+---
+
+### Assignment (12/03/2026)
+
+**Assignment Name:** Decision Tree on Paper
+
+**Objective:**
+To understand how a decision tree works by predicting whether a person should play outside based on weather conditions.
+
+**Description:**
+A decision tree is a machine learning model used for decision making and prediction. It splits data into branches based on conditions. Each branch represents a decision rule, and each leaf node represents the final outcome.
+
+For this assignment, a simple decision tree is created to predict whether a person should play outside depending on factors such as **weather, temperature, and wind**.
+
+---
+
+### Sample Dataset
+
+| Weather | Temperature | Wind   | Play Outside |
+| ------- | ----------- | ------ | ------------ |
+| Sunny   | Hot         | Weak   | No           |
+| Sunny   | Mild        | Weak   | Yes          |
+| Rainy   | Mild        | Strong | No           |
+| Rainy   | Cool        | Weak   | Yes          |
+| Cloudy  | Mild        | Weak   | Yes          |
+
+---
+
+### Decision Tree
+
+```
+                 Weather
+               /    |     \
+           Sunny  Rainy   Cloudy
+            /        |        |
+      Temperature   Wind     Play
+        /     \     /   \
+      Hot    Mild Strong Weak
+       |       |      |     |
+      No      Yes     No    Yes
+```
+
+---
+
+### Explanation
+
+1. The first decision node is **Weather**.
+2. If the weather is **Sunny**, we check the **Temperature**:
+
+   * If the temperature is **Hot**, the result is **Do Not Play**.
+   * If the temperature is **Mild**, the result is **Play**.
+3. If the weather is **Rainy**, we check the **Wind**:
+
+   * If the wind is **Strong**, the result is **Do Not Play**.
+   * If the wind is **Weak**, the result is **Play**.
+4. If the weather is **Cloudy**, the result is **Play Outside**.
+
+---
+
+### Result
+
+The decision tree successfully predicts whether a person should play outside based on weather conditions. It demonstrates how machine learning models use conditions to make decisions.
+

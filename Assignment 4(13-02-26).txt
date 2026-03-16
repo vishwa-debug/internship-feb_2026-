@@ -1,0 +1,1 @@
+13th-1.create numpy array with the following temperature in degree celsius for array [28,22,30,37,26,48]. requirements convert the list in to numpy array print maximum and minimum temperature and calculate average temperature and display last three days temperature.

@@ -1,0 +1,30 @@
+Assignment (09/02/2026)
+Assignment Name: AI Around Me
+
+Description:
+In this assignment, I explored how Artificial Intelligence (AI) is used in everyday life. Many applications we use daily rely on Machine Learning (ML) to understand user behavior, make predictions, and improve user experience. I listed ten real-life AI applications and briefly explained how machine learning works behind them.
+
+AI Applications and How ML Works
+
+Google Maps – Uses machine learning to analyze traffic data from users and predict the fastest route and estimated travel time.
+
+YouTube – Uses recommendation algorithms that analyze watch history and user behavior to suggest videos.
+
+Instagram – Uses ML to personalize the feed, recommend posts, and detect inappropriate content automatically.
+
+Gmail – Uses machine learning to filter spam emails and categorize messages into Primary, Social, and Promotions.
+
+Amazon – Uses recommendation systems to suggest products based on browsing history and previous purchases.
+
+Netflix – Uses ML models to recommend movies and TV shows based on viewing history and user ratings.
+
+Spotify – Uses machine learning to recommend songs and create personalized playlists like Discover Weekly.
+
+Google Photos – Uses image recognition models to automatically identify people, objects, and places in photos.
+
+Siri – Uses natural language processing and machine learning to understand voice commands and respond intelligently.
+
+Google Assistant – Uses speech recognition and ML algorithms to understand questions and provide relevant answers.
+
+Conclusion:
+This assignment helped me understand that AI and Machine Learning are already integrated into many daily applications. These systems learn from large amounts of data to improve accuracy, personalization, and automation for users.
